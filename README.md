@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Dilum Kalhara</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shdk8086&label=Profile%20views&color=0e75b6&style=flat" alt="shdk8086" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHDK8086&label=Profile%20views&color=0e75b6&style=flat" alt="shdk8086" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shdk8086" alt="shdk8086" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SHDK8086" alt="shdk8086" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@dilum8087" target="blank"><img src="https://img.shields.io/twitter/follow/@dilum8087?logo=twitter&style=for-the-badge" alt="@dilum8087" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dilum8087" target="blank"><img src="https://img.shields.io/twitter/follow/dilum8087?logo=twitter&style=for-the-badge" alt="@dilum8087" /></a> </p>
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
