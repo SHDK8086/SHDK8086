@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHDK8086&show_icons=true&locale=en" alt="shdk8086" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shdk8086&" alt="shdk8086" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHDK8086&" alt="shdk8086" /></p>
 
